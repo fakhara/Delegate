@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delega
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViehicleApp", "ViehicleApp\ViehicleApp.csproj", "{43CFB3D3-E65E-4622-92E6-698D9025DC0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Åldersgrupp", "Åldersgrupp\Åldersgrupp.csproj", "{A09002D6-BB26-442C-9025-FB4CA5B8580C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{43CFB3D3-E65E-4622-92E6-698D9025DC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43CFB3D3-E65E-4622-92E6-698D9025DC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43CFB3D3-E65E-4622-92E6-698D9025DC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A09002D6-BB26-442C-9025-FB4CA5B8580C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A09002D6-BB26-442C-9025-FB4CA5B8580C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A09002D6-BB26-442C-9025-FB4CA5B8580C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A09002D6-BB26-442C-9025-FB4CA5B8580C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
